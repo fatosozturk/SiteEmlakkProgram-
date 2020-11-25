@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\bin\Debug\SiteEmlakkProgramı.exe
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\bin\Debug\SiteEmlakkProgramı.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.Site.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.exe
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.Form2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2010\Projects\Database1\SiteEmlakkProgramı\SiteEmlakkProgramı\obj\x86\Debug\SiteEmlakkProgramı.csprojResolveAssemblyReference.cache
